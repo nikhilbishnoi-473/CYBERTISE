@@ -11,7 +11,7 @@
     --line-24: 24px;
     --line-26: 26px;
     --line-33: 33px;
-    --line-52: 52px;
+    --line-52: 40px;
     --line-57: 36px;
     --line-61: 52px;
 
@@ -168,6 +168,8 @@
         --line-61: 61px;
         --fs-xl: 48px;
         --line-57: 55px;
+    --line-52: 45px;
+
     }
 }
 @media (min-width: 992px) {
@@ -178,5 +180,7 @@
         --fs-lg: 24px;
         --fs-xl: 48px;
         --line-57: 57px;
+    --line-52: 52px;
+
     }
 }
